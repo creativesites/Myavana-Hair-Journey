@@ -1,0 +1,21 @@
+
+:where(.css-dev-only-do-not-override-enw2ja).ant-menu-light, :where(.css-dev-only-do-not-override-enw2ja).ant-menu-light>.ant-menu {
+    color: rgba(41, 42, 44, 0.65)!important;
+    background: #FFF5EE;
+}
+:where(.css-dev-only-do-not-override-enw2ja).ant-menu-light, :where(.css-dev-only-do-not-override-enw2ja).ant-menu-light>.ant-menu:hover {
+    color: #d4a494!important;
+    background: #FFF5EE;
+}
+span :hover {
+    color: #d4a494!important;
+}
+.anticon :hover {
+    color: #d4a494!important;
+}
+:where(.css-dev-only-do-not-override-1f51fcx).ant-app {
+    color: rgba(41, 42, 44, 0.85);
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+   
+}

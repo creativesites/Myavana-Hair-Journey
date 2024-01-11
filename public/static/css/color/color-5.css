@@ -1,0 +1,20 @@
+::selection {
+  background-color: rgb(38,31,29);
+  color: #fff;
+}
+::-moz-selection {
+  background-color: rgb(38,31,29);
+  color: #fff;
+}
+
+.theme-color {
+  color: rgb(38,31,29);
+}
+
+.home-banner .social-icons a:hover,
+.btn-theme, 
+.theme-after:after,
+.theme-bg {
+  background: rgb(38,31,29);
+}
+
